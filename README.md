@@ -21,8 +21,8 @@ Para alimentar a IA, foram utilizadas as seguintes fontes:
 ## 🛠️ Materiais Gerados (Entrega Final)
 Aqui estão os resultados consolidados da consultoria gerada pela IA:
 
-* **Vídeo Explicativo:** [Link do Vídeo ou Referência ao arquivo]
-* **Mapa Mental:** ![Mapa Mental](link-da-imagem-aqui.png)
+* **Slides/Estudo Completo:** [Baixe o Guia em PDF aqui](AWS_FinOps_Mastery.pdf)
+* **Mapa Mental:** !Mapa Mental: ![Mapa Mental](FinopsAws.png)
 * **Glossário de FinOps:**
     * **TCO:** Total Cost of Ownership.
     * **Reserved Instances:** Instâncias com desconto por reserva de longo prazo.
